@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sample-serati-sanur",
+    "name": "Sentra Banten Sanur (Data Simulasi Uji)",
+    "slug": "sentra-banten-sanur-simulasi",
+    "description": "Contoh profil toko spesialis banten jadi untuk pengujian antarmuka. Belum diverifikasi langsung ke lapangan.",
+    "categories": [
+      "banten_jadi"
+    ],
+    "products": [
+      "Pejati siap saji",
+      "Canang sari",
+      "Daksina",
+      "Banten ayaban alit",
+      "Banten otonan"
+    ],
+    "latitude": -8.6925,
+    "longitude": 115.258,
+    "address": "Kawasan Sanur Kauh, Kec. Denpasar Selatan (Titik Uji Antarmuka)",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "openingHours": "07:00 - 19:00 WITA (Simulasi)",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-02-20T10:00:00Z",
+    "isSampleFixture": true
+  },
+  {
+    "id": "sample-janur-gatot-subroto",
+    "name": "Gudang Janur & Bunga Gatsu (Data Simulasi Uji)",
+    "slug": "gudang-janur-gatsu-simulasi",
+    "description": "Contoh profil agen janur dan bunga segar untuk pengujian antarmuka peta dan pencocokan checklist.",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [
+      "Janur kuning super",
+      "Bunga sandat ikat",
+      "Bunga pacar air",
+      "Slepan kelapa",
+      "Ceper janur"
+    ],
+    "latitude": -8.636,
+    "longitude": 115.225,
+    "address": "Kawasan Gatot Subroto Timur, Kec. Denpasar Utara (Titik Uji Antarmuka)",
+    "district": "Denpasar Utara",
+    "regency": "Denpasar",
+    "openingHours": "06:00 - 20:00 WITA (Simulasi)",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-02-20T10:00:00Z",
+    "isSampleFixture": true
+  },
+  {
+    "id": "sample-buah-teuku-umar",
+    "name": "Kios Buah Upakara Teuku Umar (Data Simulasi Uji)",
+    "slug": "kios-buah-upakara-teuku-umar-simulasi",
+    "description": "Contoh profil penjual buah khusus persembahyangan untuk pengujian filter buah upakara.",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [
+      "Pisang mas tandan",
+      "Apel fuji upakara",
+      "Jeruk bali & sankis",
+      "Salak gula pasir",
+      "Mangga arum manis"
+    ],
+    "latitude": -8.675,
+    "longitude": 115.205,
+    "address": "Kawasan Teuku Umar Barat, Kec. Denpasar Barat (Titik Uji Antarmuka)",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "openingHours": "08:00 - 21:00 WITA (Simulasi)",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-02-20T10:00:00Z",
+    "isSampleFixture": true
+  }
+]

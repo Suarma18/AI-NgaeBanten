@@ -1,0 +1,4255 @@
+[
+  {
+    "id": "osm-node-13437165319",
+    "name": "Canang Sari Store",
+    "slug": "osm-node-13437165319",
+    "categories": [
+      "banten_jadi"
+    ],
+    "products": [],
+    "latitude": -8.6369601,
+    "longitude": 115.146997,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13437165319",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4196648556",
+    "name": "Dupa Wangi",
+    "slug": "osm-node-4196648556",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.6356429,
+    "longitude": 115.2235103,
+    "address": "Jalan Bypass Gatot Subroto, 85XX, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4196648556",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3233751486",
+    "name": "Dupa Wangi Gayathri",
+    "slug": "osm-node-3233751486",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.6723195,
+    "longitude": 115.2084359,
+    "address": "Jalan Teuku Umar, 92, Denpasar",
+    "regency": "Denpasar",
+    "phone": "+62 361 366 203",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3233751486",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3292077073",
+    "name": "Kayika",
+    "slug": "osm-node-3292077073",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.6563004,
+    "longitude": 115.2256804,
+    "address": "Jalan Kamboja, 6, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3292077073",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-563221997",
+    "name": "Linggarsari Upakara Jimbaran",
+    "slug": "osm-way-563221997",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.8029802,
+    "longitude": 115.1709125,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/563221997",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11813331098",
+    "name": "Toko Dupa Kawi Gopala",
+    "slug": "osm-node-11813331098",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.6522167,
+    "longitude": 115.1954967,
+    "address": "Jl. Mahendradatta, 108X",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11813331098",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-467923490",
+    "name": "Toko India",
+    "slug": "osm-way-467923490",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.697575,
+    "longitude": 115.1861799,
+    "address": "Jalan Imam Bonjol, 533, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/467923490",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10220856234",
+    "name": "Toko Yamada Jaya (Dupa & Perlengkapan Sembahyang)",
+    "slug": "osm-node-10220856234",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [],
+    "latitude": -8.7285616,
+    "longitude": 115.1778989,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10220856234",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-813805607",
+    "name": "Angga Florist",
+    "slug": "osm-way-813805607",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6612472,
+    "longitude": 115.2166815,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/813805607",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-566540018",
+    "name": "Asri Bali Flower Shop",
+    "slug": "osm-way-566540018",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.811623,
+    "longitude": 115.1576332,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/566540018",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-955562044",
+    "name": "Bali Blossoms",
+    "slug": "osm-node-955562044",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7115507,
+    "longitude": 115.1862069,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/955562044",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3955851337",
+    "name": "Bali Flower Shop",
+    "slug": "osm-node-3955851337",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6745284,
+    "longitude": 115.2176564,
+    "address": "Jl. P.B. Sudirman, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3955851337",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11204011538",
+    "name": "Belayu Florist",
+    "slug": "osm-node-11204011538",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.503632,
+    "longitude": 115.1686325,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11204011538",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9764511713",
+    "name": "Blooming Bouquet Florist",
+    "slug": "osm-node-9764511713",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7094753,
+    "longitude": 115.1837126,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9764511713",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6190600367",
+    "name": "Botanica",
+    "slug": "osm-node-6190600367",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6769338,
+    "longitude": 115.154977,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6190600367",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-594362169",
+    "name": "Bunga Bunga 2 Wholesale & Retail",
+    "slug": "osm-way-594362169",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6840013,
+    "longitude": 115.1664473,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/594362169",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3299571730",
+    "name": "Bunga Pertiwi",
+    "slug": "osm-node-3299571730",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.1922444,
+    "longitude": 114.9427735,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3299571730",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9975005102",
+    "name": "Bunga Silver Arjuna",
+    "slug": "osm-node-9975005102",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6970501,
+    "longitude": 115.1678506,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9975005102",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10706022130",
+    "name": "Cening Alpaka",
+    "slug": "osm-node-10706022130",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.8158708,
+    "longitude": 115.1558772,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10706022130",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-447643551",
+    "name": "Corine Florist Dangin Puri",
+    "slug": "osm-way-447643551",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6582102,
+    "longitude": 115.2197628,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/447643551",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4258074589",
+    "name": "D'Oasis Florist",
+    "slug": "osm-node-4258074589",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7069162,
+    "longitude": 115.1844732,
+    "address": "Jalan Pura Mertasari I, Kuta, Kabupaten Badung, Bali, Indonesia",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4258074589",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-595252794",
+    "name": "D'Xavier Florist Dangin Puri Klod",
+    "slug": "osm-way-595252794",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6677024,
+    "longitude": 115.221673,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/595252794",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-461014751",
+    "name": "De Trend Florist Bali",
+    "slug": "osm-way-461014751",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6760767,
+    "longitude": 115.2303325,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/461014751",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-564501714",
+    "name": "Diva Florist Bali",
+    "slug": "osm-way-564501714",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6835526,
+    "longitude": 115.1824915,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/564501714",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-1533609898",
+    "name": "Duta Orchid",
+    "slug": "osm-node-1533609898",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6743097,
+    "longitude": 115.2539086,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/1533609898",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9778917018",
+    "name": "Dwi Bunga",
+    "slug": "osm-node-9778917018",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6642571,
+    "longitude": 115.1720868,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9778917018",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11428431728",
+    "name": "E BOUQUET FLOWER STUDIO",
+    "slug": "osm-node-11428431728",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6658357,
+    "longitude": 115.2227942,
+    "address": "Jalan Letda Reta, Jl. Letda Reta No.65, Dangin Puri Klod, Kec. Denpasar Tim., Kota Denpasar, Bali 80232, Denpasar",
+    "regency": "Denpasar",
+    "phone": "+62 881-0384-65111",
+    "openingHours": "Mo-Sa 08:00-18:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11428431728",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9769127812",
+    "name": "Florist Room",
+    "slug": "osm-node-9769127812",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6885435,
+    "longitude": 115.1714157,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9769127812",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6460723871",
+    "name": "Flower Power",
+    "slug": "osm-node-6460723871",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7824657,
+    "longitude": 115.1669387,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6460723871",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6351349685",
+    "name": "Garden plants",
+    "slug": "osm-node-6351349685",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5649128,
+    "longitude": 115.2813585,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6351349685",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1021730895",
+    "name": "Green Spot Flower Shop",
+    "slug": "osm-way-1021730895",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6839485,
+    "longitude": 115.1584359,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1021730895",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-592817029",
+    "name": "Heliconia Heliconia",
+    "slug": "osm-way-592817029",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6692227,
+    "longitude": 115.1780931,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/592817029",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6942538185",
+    "name": "Istana",
+    "slug": "osm-node-6942538185",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5237838,
+    "longitude": 115.2668569,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6942538185",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-522831548",
+    "name": "Ketut Florist & Flower Shop",
+    "slug": "osm-way-522831548",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6459146,
+    "longitude": 115.1640746,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/522831548",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-393873855",
+    "name": "Kintan Florist 23",
+    "slug": "osm-way-393873855",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6609413,
+    "longitude": 115.1638662,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/393873855",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13437165056",
+    "name": "Malila Florist",
+    "slug": "osm-node-13437165056",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6378387,
+    "longitude": 115.1460994,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13437165056",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-594487520",
+    "name": "Martha Florist",
+    "slug": "osm-way-594487520",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6817175,
+    "longitude": 115.1649347,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/594487520",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13437165060",
+    "name": "Martha Florist Shop",
+    "slug": "osm-node-13437165060",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6375152,
+    "longitude": 115.1463472,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13437165060",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13437165061",
+    "name": "Martha Florist Shop",
+    "slug": "osm-node-13437165061",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6374939,
+    "longitude": 115.1463713,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13437165061",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-600573726",
+    "name": "Peny Gardena Dangin Puri",
+    "slug": "osm-way-600573726",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6606821,
+    "longitude": 115.2200108,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/600573726",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9764507245",
+    "name": "Pick Flower Gallery",
+    "slug": "osm-node-9764507245",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6532485,
+    "longitude": 115.2276505,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9764507245",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9934069622",
+    "name": "Rosa Flowers",
+    "slug": "osm-node-9934069622",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6829772,
+    "longitude": 115.1663608,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9934069622",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-595261969",
+    "name": "Serojo Florist",
+    "slug": "osm-way-595261969",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6797326,
+    "longitude": 115.1781983,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/595261969",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-594345694",
+    "name": "Sharon Florist Pemecutan Kaja",
+    "slug": "osm-way-594345694",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6522671,
+    "longitude": 115.2109636,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/594345694",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9979221997",
+    "name": "Sri Dara Florist",
+    "slug": "osm-node-9979221997",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7004562,
+    "longitude": 115.1688291,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9979221997",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9944243332",
+    "name": "Sunseta Flowers",
+    "slug": "osm-node-9944243332",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6830366,
+    "longitude": 115.1671613,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9944243332",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11710792963",
+    "name": "Syahlah Florist",
+    "slug": "osm-node-11710792963",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.7820043,
+    "longitude": 115.1672134,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11710792963",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-601170331",
+    "name": "Syifa Florist",
+    "slug": "osm-way-601170331",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.660381,
+    "longitude": 115.2166829,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/601170331",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5055775160",
+    "name": "Taman Bunga Muara Sari",
+    "slug": "osm-node-5055775160",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6609454,
+    "longitude": 115.1672809,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5055775160",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5055775161",
+    "name": "Taman Bunga Nugraha",
+    "slug": "osm-node-5055775161",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6610973,
+    "longitude": 115.1672954,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5055775161",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5055775162",
+    "name": "Taman Bunga Putri Sari",
+    "slug": "osm-node-5055775162",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6617094,
+    "longitude": 115.1673047,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5055775162",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-596197580",
+    "name": "Tip Top Florist Dangin Puri",
+    "slug": "osm-way-596197580",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6583412,
+    "longitude": 115.2191652,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/596197580",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-594826047",
+    "name": "Toko Bunga Gardenia 2 Dauh Puri",
+    "slug": "osm-way-594826047",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6621203,
+    "longitude": 115.2166137,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/594826047",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9764538925",
+    "name": "Toko Bunga Inflowers Panjer",
+    "slug": "osm-node-9764538925",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6775379,
+    "longitude": 115.2320787,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9764538925",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593598448",
+    "name": "Twilight Florist Dauh Puri Klod",
+    "slug": "osm-way-593598448",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.673592,
+    "longitude": 115.2170157,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593598448",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883656",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883656",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5451116,
+    "longitude": 115.0543336,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883656",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883658",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883658",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5452077,
+    "longitude": 115.054318,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883658",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883660",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883660",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5451846,
+    "longitude": 115.0544443,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883660",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883662",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883662",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5453249,
+    "longitude": 115.0543493,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883662",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883664",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883664",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.54538,
+    "longitude": 115.0544612,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883664",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883666",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883666",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5453259,
+    "longitude": 115.054495,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883666",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-593883667",
+    "name": "Warung Bunga",
+    "slug": "osm-way-593883667",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.545324,
+    "longitude": 115.0544517,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/593883667",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1072234691",
+    "name": "Warung Bunga",
+    "slug": "osm-way-1072234691",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.5451815,
+    "longitude": 115.0545684,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1072234691",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13437165300",
+    "name": "Wish Florist",
+    "slug": "osm-node-13437165300",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [],
+    "latitude": -8.6377462,
+    "longitude": 115.1463375,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13437165300",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10701124738",
+    "name": "Adit Buah - Jimbaran",
+    "slug": "osm-node-10701124738",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.8030389,
+    "longitude": 115.1601049,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10701124738",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-597767463",
+    "name": "Agen Telur Ayam Bantas Tabanan",
+    "slug": "osm-way-597767463",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5051652,
+    "longitude": 115.0720003,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/597767463",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-937952390",
+    "name": "Agen Telur Ayam Bantas Tabanan",
+    "slug": "osm-way-937952390",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5051694,
+    "longitude": 115.0719142,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/937952390",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-937952391",
+    "name": "Agen Telur Ayam Bantas Tabanan",
+    "slug": "osm-way-937952391",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5051437,
+    "longitude": 115.0720522,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/937952391",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10125523417",
+    "name": "Bali dairy manufacture",
+    "slug": "osm-node-10125523417",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.4948286,
+    "longitude": 115.2535361,
+    "address": "Raya Sanggingan, 87",
+    "regency": "Gianyar",
+    "phone": "+6281238117382",
+    "openingHours": "Mo-Sa 09:00-17:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10125523417",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3233780937",
+    "name": "Bali Djaja Foodmarket",
+    "slug": "osm-node-3233780937",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6707564,
+    "longitude": 115.2099058,
+    "address": "Jalan Teuku Umar, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3233780937",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5353842346",
+    "name": "Bali Pure",
+    "slug": "osm-node-5353842346",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.4894048,
+    "longitude": 115.2698838,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5353842346",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4459914491",
+    "name": "Banana",
+    "slug": "osm-node-4459914491",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.8158619,
+    "longitude": 115.1561024,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4459914491",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-604184718",
+    "name": "Buah Hati Baby & Kids Shop",
+    "slug": "osm-way-604184718",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6930623,
+    "longitude": 115.1977488,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/604184718",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-475109616",
+    "name": "Buk Erni",
+    "slug": "osm-way-475109616",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5606156,
+    "longitude": 115.0389567,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/475109616",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10046638017",
+    "name": "Club Sehot",
+    "slug": "osm-node-10046638017",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.4984199,
+    "longitude": 115.2532103,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "openingHours": "Su-Fr 09:00-18:00; Sa closed",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10046638017",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4593932205",
+    "name": "Depo bangunan(HOME REPUBLIK)",
+    "slug": "osm-node-4593932205",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6263967,
+    "longitude": 115.2959567,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4593932205",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12724740201",
+    "name": "Durian shop",
+    "slug": "osm-node-12724740201",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5240964,
+    "longitude": 115.4949501,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "openingHours": "Mo-Su 05:00-17:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12724740201",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11710797169",
+    "name": "Edy Durian",
+    "slug": "osm-node-11710797169",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7841214,
+    "longitude": 115.166309,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11710797169",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4540694390",
+    "name": "food & fruit market",
+    "slug": "osm-node-4540694390",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6721797,
+    "longitude": 115.1653237,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4540694390",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3786140173",
+    "name": "Freshindo",
+    "slug": "osm-node-3786140173",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6671625,
+    "longitude": 115.2383737,
+    "address": "Cok Agung Tresna, 168, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3786140173",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5792893153",
+    "name": "Froot market",
+    "slug": "osm-node-5792893153",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7117096,
+    "longitude": 115.1746888,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5792893153",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5570283521",
+    "name": "Fruit & Vegetable Market",
+    "slug": "osm-node-5570283521",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6832043,
+    "longitude": 115.1662231,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "openingHours": "Mo-Su 06:00-17:30",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5570283521",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-7505705485",
+    "name": "Fruit market",
+    "slug": "osm-node-7505705485",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7288593,
+    "longitude": 115.1777727,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/7505705485",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6426483885",
+    "name": "Fruits",
+    "slug": "osm-node-6426483885",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7802069,
+    "longitude": 115.1801665,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6426483885",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5865277391",
+    "name": "fruits and vegetables",
+    "slug": "osm-node-5865277391",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.8271303,
+    "longitude": 115.1816238,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5865277391",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4912038822",
+    "name": "LOCAL FRUITS GUY (top quality and cheap)",
+    "slug": "osm-node-4912038822",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7113434,
+    "longitude": 115.1769826,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4912038822",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6618211987",
+    "name": "Local Market",
+    "slug": "osm-node-6618211987",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.67265,
+    "longitude": 115.5561788,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Klungkung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6618211987",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4782436022",
+    "name": "Market",
+    "slug": "osm-node-4782436022",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.4535841,
+    "longitude": 115.5975949,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4782436022",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3610130933",
+    "name": "Moena Fresh",
+    "slug": "osm-node-3610130933",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6842281,
+    "longitude": 115.2301248,
+    "address": "Jalan Tukad Batanghari, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3610130933",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-381441261",
+    "name": "Moena Fresh",
+    "slug": "osm-way-381441261",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6361755,
+    "longitude": 115.2150609,
+    "address": "Jalan Bypass Gatot Subroto, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/381441261",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-445338844",
+    "name": "Moena Fresh",
+    "slug": "osm-way-445338844",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.6380468,
+    "longitude": 115.2543346,
+    "address": "Jalan Raya Tohpati, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/445338844",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4456480190",
+    "name": "Morning Market",
+    "slug": "osm-node-4456480190",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.8195063,
+    "longitude": 115.1523944,
+    "address": "Raya Uluwatu",
+    "regency": "Badung",
+    "openingHours": "Mo-Su 08:00-22:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4456480190",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4248230791",
+    "name": "Night Market",
+    "slug": "osm-node-4248230791",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.7117537,
+    "longitude": 115.1739386,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4248230791",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5857437085",
+    "name": "Small fruit stand (open everyday 3pm-7pm)",
+    "slug": "osm-node-5857437085",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.648825,
+    "longitude": 115.1475928,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5857437085",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12168150351",
+    "name": "Toko Buah",
+    "slug": "osm-node-12168150351",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5423245,
+    "longitude": 115.4028103,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Klungkung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12168150351",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13621923101",
+    "name": "Toko R&G",
+    "slug": "osm-node-13621923101",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.5438406,
+    "longitude": 115.489195,
+    "address": "Jalan Raya Pengalon - Antiga Kelod",
+    "regency": "Karangasem",
+    "openingHours": "Mo-Su 09:00-18:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13621923101",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-7094715685",
+    "name": "Vegetarian Vegan Frozen Dry",
+    "slug": "osm-node-7094715685",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.631868,
+    "longitude": 115.22349,
+    "address": "Jalan Nangka",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/7094715685",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6927702985",
+    "name": "Wr. Sukansri",
+    "slug": "osm-node-6927702985",
+    "categories": [
+      "buah_upakara"
+    ],
+    "products": [],
+    "latitude": -8.3784438,
+    "longitude": 115.5776248,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6927702985",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4231678292",
+    "name": "Artmarket",
+    "slug": "osm-node-4231678292",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7268057,
+    "longitude": 115.1696633,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4231678292",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-1751874242",
+    "name": "Axioo",
+    "slug": "osm-node-1751874242",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6796928,
+    "longitude": 115.1644233,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/1751874242",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13542381672",
+    "name": "BBC Batu Bolong Center Bazzar",
+    "slug": "osm-node-13542381672",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6579837,
+    "longitude": 115.1310144,
+    "address": "Jalan Pantai Batu Bolong",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13542381672",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-460354893",
+    "name": "Candi Kuning Tourist and Fruit Market",
+    "slug": "osm-way-460354893",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.2829619,
+    "longitude": 115.1615798,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/460354893",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4260259762",
+    "name": "Galeri Smartfren Sunset Road Bali",
+    "slug": "osm-node-4260259762",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7140801,
+    "longitude": 115.186528,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4260259762",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308518",
+    "name": "JFC Jaya Fried Chicken",
+    "slug": "osm-way-602308518",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0786727,
+    "longitude": 115.1712998,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308518",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308519",
+    "name": "JFC Jaya Fried Chicken",
+    "slug": "osm-way-602308519",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0787082,
+    "longitude": 115.1713628,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308519",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308520",
+    "name": "JFC Jaya Fried Chicken",
+    "slug": "osm-way-602308520",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0786266,
+    "longitude": 115.1713548,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308520",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4349396956",
+    "name": "Kayu aya",
+    "slug": "osm-node-4349396956",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6858844,
+    "longitude": 115.156267,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4349396956",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-1751874241",
+    "name": "Kenny Furniture",
+    "slug": "osm-node-1751874241",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.68087,
+    "longitude": 115.1644235,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/1751874241",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13765559728",
+    "name": "Les Traditional Market",
+    "slug": "osm-node-13765559728",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1430847,
+    "longitude": 115.3675324,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "openingHours": "Everyday 05:00-09:30",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13765559728",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2481917695",
+    "name": "Mambal Market",
+    "slug": "osm-node-2481917695",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5497212,
+    "longitude": 115.2199678,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2481917695",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12703851101",
+    "name": "Market on road",
+    "slug": "osm-node-12703851101",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5973629,
+    "longitude": 115.2830084,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12703851101",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11686390984",
+    "name": "Morning Market",
+    "slug": "osm-node-11686390984",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5073435,
+    "longitude": 115.2632046,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "openingHours": "07:00-09:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11686390984",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-636640635",
+    "name": "Pasar",
+    "slug": "osm-node-636640635",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.2477615,
+    "longitude": 115.1511372,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/636640635",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-492685338",
+    "name": "Pasar",
+    "slug": "osm-way-492685338",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6829607,
+    "longitude": 115.2266757,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/492685338",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-560923073",
+    "name": "Pasar",
+    "slug": "osm-way-560923073",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1925664,
+    "longitude": 114.9342621,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/560923073",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-560923086",
+    "name": "Pasar",
+    "slug": "osm-way-560923086",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1910258,
+    "longitude": 114.9334095,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/560923086",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-504721653",
+    "name": "PASAR",
+    "slug": "osm-way-504721653",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7861326,
+    "longitude": 115.1882155,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/504721653",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-423844191",
+    "name": "Pasar Abiantimbul",
+    "slug": "osm-way-423844191",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.687457,
+    "longitude": 115.193057,
+    "address": "Jalan Imam Bonjol, 421, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/423844191",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-562930602",
+    "name": "Pasar Adat Desa Bualu",
+    "slug": "osm-way-562930602",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7980425,
+    "longitude": 115.2230067,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/562930602",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4171857377",
+    "name": "Pasar Adat Sesetan",
+    "slug": "osm-node-4171857377",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6845738,
+    "longitude": 115.2161408,
+    "address": "Jalan Raya Sesetan, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4171857377",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-429282123",
+    "name": "Pasar Amlapura Barat",
+    "slug": "osm-way-429282123",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4491113,
+    "longitude": 115.6142372,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/429282123",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-566540823",
+    "name": "Pasar Ampera",
+    "slug": "osm-way-566540823",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.8193618,
+    "longitude": 115.1523114,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/566540823",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-635882267",
+    "name": "Pasar Anyar",
+    "slug": "osm-way-635882267",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1083693,
+    "longitude": 115.0893451,
+    "address": "Jalan Durian",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/635882267",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-847886880",
+    "name": "Pasar Badung",
+    "slug": "osm-way-847886880",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6565601,
+    "longitude": 115.2124866,
+    "address": "Jalan Gajah Mada, Denpasar",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "openingHours": "Mo-Su 05:00-20:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/847886880",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-3299573267",
+    "name": "Pasar banjar",
+    "slug": "osm-node-3299573267",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.2013279,
+    "longitude": 114.9628985,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/3299573267",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5982988011",
+    "name": "Pasar Banyuasri",
+    "slug": "osm-node-5982988011",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1150744,
+    "longitude": 115.0783067,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5982988011",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-189158932",
+    "name": "Pasar Banyuning",
+    "slug": "osm-way-189158932",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1123475,
+    "longitude": 115.1072745,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/189158932",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-524546108",
+    "name": "Pasar Banyusari",
+    "slug": "osm-way-524546108",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6620207,
+    "longitude": 115.1905708,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/524546108",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-8703389136",
+    "name": "Pasar Barang Bajera",
+    "slug": "osm-node-8703389136",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5029419,
+    "longitude": 115.027004,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/8703389136",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-939580727",
+    "name": "Pasar Barang Pupuan",
+    "slug": "osm-way-939580727",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3173732,
+    "longitude": 115.0058003,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/939580727",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-568027728",
+    "name": "Pasar Baru Goa Gong",
+    "slug": "osm-way-568027728",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.80235,
+    "longitude": 115.1722798,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/568027728",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-374814714",
+    "name": "Pasar Batan Kendal",
+    "slug": "osm-way-374814714",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7112533,
+    "longitude": 115.2280718,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/374814714",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4549354686",
+    "name": "Pasar Berawa",
+    "slug": "osm-node-4549354686",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6494082,
+    "longitude": 115.1485648,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4549354686",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-169558046",
+    "name": "Pasar Bondalem",
+    "slug": "osm-way-169558046",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1167268,
+    "longitude": 115.3138384,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/169558046",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-763526903",
+    "name": "Pasar Budakeling",
+    "slug": "osm-way-763526903",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4287654,
+    "longitude": 115.5717346,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/763526903",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-601892749",
+    "name": "Pasar Bungkulan",
+    "slug": "osm-way-601892749",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0800948,
+    "longitude": 115.1591025,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/601892749",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-601892750",
+    "name": "Pasar Bungkulan",
+    "slug": "osm-way-601892750",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0801841,
+    "longitude": 115.1591054,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/601892750",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602439110",
+    "name": "Pasar Bungkulan",
+    "slug": "osm-way-602439110",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0800512,
+    "longitude": 115.1592124,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602439110",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-315713588",
+    "name": "Pasar Burung Satria",
+    "slug": "osm-way-315713588",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6504721,
+    "longitude": 115.2177999,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "openingHours": "Mo-Su 08:00-15:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/315713588",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1082076643",
+    "name": "Pasar Desa Adat Legian",
+    "slug": "osm-way-1082076643",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6983195,
+    "longitude": 115.1719108,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1082076643",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-328141815",
+    "name": "Pasar Desa Adat Mas Ubud",
+    "slug": "osm-way-328141815",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.544638,
+    "longitude": 115.2721317,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/328141815",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-597675282",
+    "name": "Pasar Desa Bungkulan",
+    "slug": "osm-way-597675282",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0798665,
+    "longitude": 115.1575578,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/597675282",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-605006164",
+    "name": "Pasar Desa Menyali",
+    "slug": "osm-way-605006164",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1221194,
+    "longitude": 115.1682676,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/605006164",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-605006167",
+    "name": "Pasar Desa Menyali",
+    "slug": "osm-way-605006167",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1221852,
+    "longitude": 115.1682421,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/605006167",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-541144869",
+    "name": "Pasar Desa Tambakan",
+    "slug": "osm-way-541144869",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.2234281,
+    "longitude": 115.2445811,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/541144869",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-530229602",
+    "name": "Pasar Desa Tejakula",
+    "slug": "osm-way-530229602",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1248981,
+    "longitude": 115.3420289,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/530229602",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4081167988",
+    "name": "Pasar Goris",
+    "slug": "osm-node-4081167988",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1441999,
+    "longitude": 114.5891694,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4081167988",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-373180023",
+    "name": "Pasar Gunung Agung",
+    "slug": "osm-way-373180023",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6537244,
+    "longitude": 115.2069475,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/373180023",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11466696288",
+    "name": "Pasar Ijo Gading",
+    "slug": "osm-node-11466696288",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3609436,
+    "longitude": 114.6253895,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Jembrana",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11466696288",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-386307269",
+    "name": "Pasar Ikan Jimbaran",
+    "slug": "osm-way-386307269",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7570446,
+    "longitude": 115.1683493,
+    "address": "Jalan Pantai Kedonganan",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/386307269",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-563190478",
+    "name": "Pasar Intaran",
+    "slug": "osm-way-563190478",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6851018,
+    "longitude": 115.2501161,
+    "address": "Jalan Pejang Sari, Sanur",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/563190478",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4418535614",
+    "name": "Pasar Kangkung",
+    "slug": "osm-node-4418535614",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6976731,
+    "longitude": 115.1923508,
+    "address": "Jl, Gelogor Carik, Sesetan, Denpasar Sel., Kota Denpasar, Bali, Indonesia",
+    "regency": "Denpasar",
+    "phone": "+62 878-6235-5660",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4418535614",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1462308548",
+    "name": "Pasar Keramas",
+    "slug": "osm-way-1462308548",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5763501,
+    "longitude": 115.3247687,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1462308548",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-322436643",
+    "name": "Pasar Kereneng",
+    "slug": "osm-way-322436643",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6555472,
+    "longitude": 115.2249496,
+    "address": "Jalan Kamboja, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/322436643",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-444898991",
+    "name": "Pasar Ketapian",
+    "slug": "osm-way-444898991",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6499696,
+    "longitude": 115.2364514,
+    "address": "Katrangan, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/444898991",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5267751746",
+    "name": "Pasar Kidul Bangli",
+    "slug": "osm-node-5267751746",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4553134,
+    "longitude": 115.356561,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "openingHours": "sunrise-sunset",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5267751746",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-544653024",
+    "name": "Pasar Kidul Bangli",
+    "slug": "osm-way-544653024",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4554002,
+    "longitude": 115.3569854,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/544653024",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-541028763",
+    "name": "PASAR KLUNGKUNG",
+    "slug": "osm-way-541028763",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5450838,
+    "longitude": 115.4018151,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Klungkung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/541028763",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2498044930",
+    "name": "Pasar Kuliner",
+    "slug": "osm-node-2498044930",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6950436,
+    "longitude": 115.2379404,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2498044930",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-648321758",
+    "name": "Pasar Kuliner",
+    "slug": "osm-way-648321758",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1165406,
+    "longitude": 115.0912375,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/648321758",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-314738900",
+    "name": "Pasar Kumbasari",
+    "slug": "osm-way-314738900",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6560871,
+    "longitude": 115.211856,
+    "address": "Jalan Gajah Mada, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/314738900",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4418543773",
+    "name": "Pasar Kuta Dua PD",
+    "slug": "osm-node-4418543773",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.723565,
+    "longitude": 115.17661,
+    "address": "Jalan Raya Kuta, Badung, Bali",
+    "regency": "Badung",
+    "phone": "+62 361 752249",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4418543773",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-520799091",
+    "name": "Pasar Kuta I",
+    "slug": "osm-way-520799091",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7228367,
+    "longitude": 115.1770211,
+    "address": "Jalan Raya Kuta, Kuta",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/520799091",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-5267748775",
+    "name": "Pasar Loca Crana Bangli",
+    "slug": "osm-node-5267748775",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4546054,
+    "longitude": 115.3560311,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/5267748775",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-615096441",
+    "name": "Pasar Malam Banyuasri",
+    "slug": "osm-way-615096441",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1141967,
+    "longitude": 115.0791373,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/615096441",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6805049371",
+    "name": "Pasar Malam Sindhu",
+    "slug": "osm-node-6805049371",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6852315,
+    "longitude": 115.259987,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6805049371",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9810442025",
+    "name": "Pasar P.Misol Banjar Sumuh",
+    "slug": "osm-node-9810442025",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6781046,
+    "longitude": 115.2027899,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9810442025",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-6463354185",
+    "name": "Pasar Pagi",
+    "slug": "osm-node-6463354185",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6036863,
+    "longitude": 115.1570061,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "openingHours": "04:00-09:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/6463354185",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-764189727",
+    "name": "Pasar Pande Besi",
+    "slug": "osm-way-764189727",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4241528,
+    "longitude": 115.5774186,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/764189727",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2491822847",
+    "name": "pasar pemedilan",
+    "slug": "osm-node-2491822847",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6587021,
+    "longitude": 115.2079944,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2491822847",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13765559719",
+    "name": "Pasar Penutukan",
+    "slug": "osm-node-13765559719",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1412564,
+    "longitude": 115.3862694,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13765559719",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-763924126",
+    "name": "Pasar Petang",
+    "slug": "osm-way-763924126",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3960948,
+    "longitude": 115.2179608,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/763924126",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-367969115",
+    "name": "Pasar Phula Kerti Sesetan Kaja",
+    "slug": "osm-way-367969115",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6762189,
+    "longitude": 115.216734,
+    "address": "Jalan Serma Made Pil, 55, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/367969115",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-446941530",
+    "name": "Pasar Pondok Indah",
+    "slug": "osm-way-446941530",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6417729,
+    "longitude": 115.1989981,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/446941530",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-14293375797",
+    "name": "Pasar Rakyat",
+    "slug": "osm-node-14293375797",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.8004976,
+    "longitude": 115.2293635,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/14293375797",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1053543756",
+    "name": "Pasar Rakyat Giri Emas",
+    "slug": "osm-way-1053543756",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.08225,
+    "longitude": 115.1438172,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1053543756",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4418549895",
+    "name": "Pasar Sanglah",
+    "slug": "osm-node-4418549895",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6767062,
+    "longitude": 115.2156913,
+    "address": "Jl. Diponegoro, Dauh Puri Klod, Denpasar Bar., Kota Denpasar, Bali",
+    "regency": "Denpasar",
+    "phone": "+62 361 224361",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4418549895",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4418562832",
+    "name": "Pasar Sari Winangun",
+    "slug": "osm-node-4418562832",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6574715,
+    "longitude": 115.1821611,
+    "address": "Jl. Gunung tangkuban perahu, Kerobokan, Kuta Utara",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4418562832",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-372129637",
+    "name": "Pasar Satria",
+    "slug": "osm-way-372129637",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6517035,
+    "longitude": 115.2170587,
+    "address": "Jalan Veteran, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/372129637",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-375347746",
+    "name": "Pasar Sementara",
+    "slug": "osm-way-375347746",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6453979,
+    "longitude": 115.2098893,
+    "address": "Jalan H.O.S. Cokroaminoto, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/375347746",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-763911894",
+    "name": "Pasar Senggol Amlapura",
+    "slug": "osm-way-763911894",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4493813,
+    "longitude": 115.6066111,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/763911894",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-9963415817",
+    "name": "Pasar Senggol Gianyar",
+    "slug": "osm-node-9963415817",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5429018,
+    "longitude": 115.3222578,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/9963415817",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-520772696",
+    "name": "Pasar Senggol Kuta",
+    "slug": "osm-way-520772696",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7248891,
+    "longitude": 115.1783303,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/520772696",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1088850844",
+    "name": "Pasar Senggol Nakula",
+    "slug": "osm-way-1088850844",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6983632,
+    "longitude": 115.1738291,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1088850844",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11466694045",
+    "name": "Pasar Senggol Negara",
+    "slug": "osm-node-11466694045",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3609244,
+    "longitude": 114.6255948,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Jembrana",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11466694045",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12168151394",
+    "name": "Pasar Sengol",
+    "slug": "osm-node-12168151394",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5347645,
+    "longitude": 115.4041393,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Klungkung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12168151394",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4266401290",
+    "name": "Pasar Seni Kuta",
+    "slug": "osm-node-4266401290",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7247843,
+    "longitude": 115.1704146,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4266401290",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-302537389",
+    "name": "Pasar Seririt",
+    "slug": "osm-way-302537389",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1942201,
+    "longitude": 114.933527,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/302537389",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-367969117",
+    "name": "Pasar Sesetan Kaja",
+    "slug": "osm-way-367969117",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6758985,
+    "longitude": 115.2168097,
+    "address": "Jalan Serma Made Pil, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/367969117",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-438364103",
+    "name": "Pasar Sibetan",
+    "slug": "osm-way-438364103",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4431817,
+    "longitude": 115.5405145,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/438364103",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-316900938",
+    "name": "Pasar Suci Sari Jaya",
+    "slug": "osm-way-316900938",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6590814,
+    "longitude": 115.2145948,
+    "address": "Jalan Diponegoro, Denpasar",
+    "regency": "Denpasar",
+    "openingHours": "Mo-Su 07:00-16:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/316900938",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-747472721",
+    "name": "Pasar T. Pekarisan",
+    "slug": "osm-way-747472721",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6823123,
+    "longitude": 115.2261746,
+    "address": "jalan tukad pekarisan",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/747472721",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2487421232",
+    "name": "Pasar Tabanan",
+    "slug": "osm-node-2487421232",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5390295,
+    "longitude": 115.1265478,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2487421232",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1071873617",
+    "name": "Pasar Tabanan",
+    "slug": "osm-way-1071873617",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5389839,
+    "longitude": 115.1263647,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1071873617",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1071873621",
+    "name": "Pasar Tabanan",
+    "slug": "osm-way-1071873621",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.538945,
+    "longitude": 115.1270858,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1071873621",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1376467121",
+    "name": "Pasar Tampaksiring",
+    "slug": "osm-way-1376467121",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4300688,
+    "longitude": 115.3077859,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1376467121",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-515548219",
+    "name": "Pasar Tanjung Benoa",
+    "slug": "osm-way-515548219",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7571741,
+    "longitude": 115.2193196,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/515548219",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12732253649",
+    "name": "Pasar Tegallinggah",
+    "slug": "osm-node-12732253649",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4324509,
+    "longitude": 115.6216286,
+    "address": "Tegallinggah",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12732253649",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-438362807",
+    "name": "Pasar Telaga Sibetan",
+    "slug": "osm-way-438362807",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4482187,
+    "longitude": 115.5297254,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/438362807",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2970224477",
+    "name": "Pasar Tradisional Dalung",
+    "slug": "osm-node-2970224477",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6296393,
+    "longitude": 115.1746382,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2970224477",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-256127716",
+    "name": "Pasar Tradisional Pupuan",
+    "slug": "osm-way-256127716",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3174439,
+    "longitude": 115.0057882,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/256127716",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-229363414",
+    "name": "Pasar Tukad Legawa",
+    "slug": "osm-way-229363414",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.181746,
+    "longitude": 115.473499,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/229363414",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-238194819",
+    "name": "Pasar Ubud",
+    "slug": "osm-way-238194819",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5078039,
+    "longitude": 115.2634532,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/238194819",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-503233838",
+    "name": "Pasar Ulakan",
+    "slug": "osm-way-503233838",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4999169,
+    "longitude": 115.5068504,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Karangasem",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/503233838",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308522",
+    "name": "Pasar Umum Desa Kubutambahan",
+    "slug": "osm-way-602308522",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0786046,
+    "longitude": 115.1712305,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308522",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308523",
+    "name": "Pasar Umum Desa Kubutambahan",
+    "slug": "osm-way-602308523",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0785863,
+    "longitude": 115.1710923,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308523",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308524",
+    "name": "Pasar Umum Desa Kubutambahan",
+    "slug": "osm-way-602308524",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.078727,
+    "longitude": 115.1710872,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308524",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308529",
+    "name": "Pasar Umum Desa Kubutambahan",
+    "slug": "osm-way-602308529",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0786617,
+    "longitude": 115.1709387,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308529",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-602308530",
+    "name": "Pasar Umum Desa Kubutambahan",
+    "slug": "osm-way-602308530",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0784672,
+    "longitude": 115.1710734,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/602308530",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-496241512",
+    "name": "Pasar Umum Gianyar",
+    "slug": "osm-way-496241512",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5423313,
+    "longitude": 115.3268728,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/496241512",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13410196901",
+    "name": "Pasar Umum Singakerta",
+    "slug": "osm-node-13410196901",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5304837,
+    "longitude": 115.2518358,
+    "address": "Jalan Jukut Paku",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13410196901",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-419885979",
+    "name": "Pasar Umum Sukawati",
+    "slug": "osm-way-419885979",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.596468,
+    "longitude": 115.2832897,
+    "address": "Jalan Raya Sukawati, Sukawati",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/419885979",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2111194816",
+    "name": "Pasar Umum Suraberata",
+    "slug": "osm-node-2111194816",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4955035,
+    "longitude": 114.9656367,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Tabanan",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2111194816",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-1909854637",
+    "name": "Pasar Yehembang",
+    "slug": "osm-node-1909854637",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.3922972,
+    "longitude": 114.7534983,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Jembrana",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/1909854637",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12863417711",
+    "name": "Peliatan Night Market",
+    "slug": "osm-node-12863417711",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5176396,
+    "longitude": 115.2688852,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12863417711",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4177712557",
+    "name": "Putra Mandiri",
+    "slug": "osm-node-4177712557",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6678721,
+    "longitude": 115.2006703,
+    "address": "Jl. Subur, Pemecutan Klod, Denpasar, Bali",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4177712557",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-312071766",
+    "name": "Sanglah Market",
+    "slug": "osm-way-312071766",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6766354,
+    "longitude": 115.2156778,
+    "address": "Jalan Raya Sesetan, Denpasar",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/312071766",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-7005551253",
+    "name": "Sapta Pesona",
+    "slug": "osm-node-7005551253",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.672694,
+    "longitude": 115.5564983,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Klungkung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/7005551253",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-554783106",
+    "name": "sayan market",
+    "slug": "osm-way-554783106",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5205874,
+    "longitude": 115.2402067,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/554783106",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2491823019",
+    "name": "senggol pemedilan",
+    "slug": "osm-node-2491823019",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6584104,
+    "longitude": 115.2084181,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2491823019",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-10997265589",
+    "name": "Street fish market",
+    "slug": "osm-node-10997265589",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.0782303,
+    "longitude": 115.1760945,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "openingHours": "Mo-Su 10:00-18:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/10997265589",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11048073389",
+    "name": "Street Food Market",
+    "slug": "osm-node-11048073389",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6714076,
+    "longitude": 115.2620024,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11048073389",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2276393609",
+    "name": "Taman Bali Market",
+    "slug": "osm-node-2276393609",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6722333,
+    "longitude": 115.1656312,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2276393609",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-391619140",
+    "name": "Tirta Empul Market",
+    "slug": "osm-way-391619140",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.4162611,
+    "longitude": 115.3155063,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/391619140",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-13765559724",
+    "name": "Toko Widyanugrah",
+    "slug": "osm-node-13765559724",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.1362129,
+    "longitude": 115.3718647,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/13765559724",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2185032410",
+    "name": "Traditional Market",
+    "slug": "osm-node-2185032410",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7706499,
+    "longitude": 115.1734277,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2185032410",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-12522480901",
+    "name": "Ubud Street Market",
+    "slug": "osm-node-12522480901",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.5086375,
+    "longitude": 115.2626282,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Gianyar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/12522480901",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-968956610",
+    "name": "UD Rama",
+    "slug": "osm-way-968956610",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.497099,
+    "longitude": 115.3483996,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/968956610",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-1521983883",
+    "name": "Unit Pasar Nusa Dua",
+    "slug": "osm-way-1521983883",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.7958133,
+    "longitude": 115.2164856,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/1521983883",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-2468915748",
+    "name": "Village Market",
+    "slug": "osm-node-2468915748",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.2653661,
+    "longitude": 115.0528648,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Buleleng",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/2468915748",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-968956609",
+    "name": "Warung Bu Novi",
+    "slug": "osm-way-968956609",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.497171,
+    "longitude": 115.348496,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Bangli",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/968956609",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-way-304344730",
+    "name": "Werdhi Budaya Art Center",
+    "slug": "osm-way-304344730",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6555952,
+    "longitude": 115.2339044,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/way/304344730",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-4069512858",
+    "name": "Wholesale fruit market",
+    "slug": "osm-node-4069512858",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6566054,
+    "longitude": 115.2139215,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Denpasar",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/4069512858",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-11835051369",
+    "name": "Красивый воскресный рынок",
+    "slug": "osm-node-11835051369",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6538544,
+    "longitude": 115.1253282,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "openingHours": "Su 09:00-18:00",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/11835051369",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "osm-node-1998390429",
+    "name": "Рынок",
+    "slug": "osm-node-1998390429",
+    "categories": [
+      "pasar_tradisional"
+    ],
+    "products": [],
+    "latitude": -8.6984187,
+    "longitude": 115.1739863,
+    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
+    "regency": "Badung",
+    "source": "openstreetmap",
+    "sourceUrl": "https://www.openstreetmap.org/node/1998390429",
+    "verificationStatus": "unverified",
+    "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  }
+]

@@ -32,7 +32,7 @@ export default function StoreSearch({ searchQuery, onSearch, regionId, onRegionC
         <div className="search-input-wrapper">
           <Search className="search-icon" size={18} aria-hidden="true" />
           <input type="search" name="store-search" autoComplete="off" className="search-input"
-            placeholder="Nama toko, bahan, atau pasar…" maxLength={100}
+            placeholder="Cari toko banten, canang, dupa, jero mangku…" maxLength={100}
             value={localText} onChange={(event) => setLocalText(event.target.value)} aria-label="Cari toko banten atau produk upakara" />
           {localText && <button type="button" className="search-clear-button" aria-label="Hapus kata kunci pencarian" onClick={() => setLocalText("")}><X size={16} aria-hidden="true" /></button>}
         </div>

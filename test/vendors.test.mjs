@@ -247,5 +247,39 @@ console.log("Running comprehensive tests for Banten Store Map & Vendors...");
   assert.equal(isBaliRegion("Jakarta"), false);
 }
 
+// Test 10: Jero Mangku & Serati category validation, querying & matching
+{
+  const jeroMangkuVendor = {
+    id: "jm-alit-1",
+    name: "Jero Mangku Alit",
+    slug: "jero-mangku-alit",
+    categories: ["jero_mangku", "banten_jadi"],
+    products: ["Muput piodalan", "Konsultasi banten pejati", "Tirta"],
+    latitude: -8.6315,
+    longitude: 115.2440,
+    address: "Jl. Trenggana No. 24, Denpasar",
+    regency: "Denpasar",
+    phone: "081239112244",
+    verificationStatus: "verified",
+    updatedAt: "2026-11-02"
+  };
+
+  const validation = validateVendor(jeroMangkuVendor);
+  assert.equal(validation.valid, true);
+
+  const results = queryVendors([jeroMangkuVendor], {
+    category: "jero_mangku",
+    searchQuery: "",
+    sortBy: "relevance"
+  });
+  assert.equal(results.length, 1);
+  assert.equal(results[0].id, "jm-alit-1");
+
+  // Serati & Pejati matching
+  assert.equal(itemMatchesVendor("pejati 3 buah", jeroMangkuVendor), true);
+  assert.equal(itemMatchesVendor("muput upacara otonan", jeroMangkuVendor), true);
+  assert.equal(itemMatchesVendor("buku pelajaran", jeroMangkuVendor), false);
+}
+
 console.log("All Banten Store Map unit tests passed successfully!");
 

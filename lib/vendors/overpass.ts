@@ -33,13 +33,24 @@ export function buildOverpassQuery(region: BaliRegionId, bounds?: SearchBounds):
 
 function categoriesFor(tags: Record<string, string>): VendorCategory[] {
   const name = (tags.name || "").toLowerCase();
-  if (["laundry", "dry_cleaning", "party", "clothes", "hairdresser", "beauty", "car", "motorcycle", "electronics", "computer", "furniture"].includes(tags.shop)) return [];
+  // Exclude non-ritual services, western gift florists, bouquet studios, jewelry, and non-upakara flower shops
+  if (
+    ["laundry", "dry_cleaning", "party", "clothes", "hairdresser", "beauty", "car", "motorcycle", "electronics", "computer", "furniture"].includes(tags.shop) ||
+    /florist|bouquet|flower\s*(shop|studio|gallery|power)|blossoms|botanica|orchid|garden\s*plants|gardena|gardenia|heliconia|silver\s*arjuna|cening\s*alpaka/i.test(name) ||
+    name === "istana"
+  ) {
+    return [];
+  }
   const categories = new Set<VendorCategory>();
   if (tags.amenity === "marketplace") categories.add("pasar_tradisional");
-  if (tags.shop === "florist" || /bunga|janur/.test(name)) categories.add("bunga_janur");
+  // Only accept ritual-relevant flowers/janur (reject general western florists)
+  if (!/florist|bouquet|flower\s*(shop|studio)/i.test(name) && (/janur|slepan|busung|canang|warung\s*bunga|taman\s*bunga/.test(name) || (/bunga/.test(name) && tags.religion === "hindu"))) {
+    categories.add("bunga_janur");
+  }
   if (tags.shop === "greengrocer" || /buah/.test(name)) categories.add("buah_upakara");
   if (/banten|canang|pejati/.test(name)) categories.add("banten_jadi");
   if (/upakara|sesajen|dupa/.test(name) || tags.religion === "hindu") categories.add("bahan_banten");
+  if (/jero\s*mangku|pemangku|serati|griya/.test(name)) categories.add("jero_mangku");
   return [...categories];
 }
 

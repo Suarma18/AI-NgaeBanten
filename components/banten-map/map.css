@@ -713,11 +713,30 @@
 
 .store-card-title {
   font-family: var(--font-jakarta), sans-serif;
-  font-size: 15px;
+  font-size: 15.5px;
   font-weight: 800;
-  color: #173f2e;
+  color: #123324;
   margin: 0 0 8px;
   line-height: 1.3;
+  letter-spacing: -0.3px;
+}
+
+/* Jero Mangku & Serati Visual Distinction */
+.store-card.is-jero-mangku {
+  border-left: 4px solid #b45309;
+  background: linear-gradient(to right, #fefcf6 0%, #ffffff 32%);
+}
+
+.store-card.is-jero-mangku:hover {
+  border-left-color: #92400e;
+  border-color: #d97706;
+  background: linear-gradient(to right, #fdf8ed 0%, #ffffff 36%);
+}
+
+.store-card.is-jero-mangku.is-selected {
+  border-left: 4.5px solid #b45309;
+  background: #fdfaf2;
+  box-shadow: 0 0 0 2px #b45309, 0 8px 24px rgba(180, 83, 9, 0.16);
 }
 
 .store-card-select-btn {
@@ -735,8 +754,8 @@
   display: flex;
   flex-direction: column;
   gap: 5px;
-  font-size: 12px;
-  color: #4b6253;
+  font-size: 12.5px;
+  color: #274133;
   margin-bottom: 10px;
 }
 
@@ -744,13 +763,14 @@
   display: flex;
   align-items: flex-start;
   gap: 6px;
-  line-height: 1.4;
+  line-height: 1.45;
+  color: #243c30;
 }
 
 .meta-icon {
   flex-shrink: 0;
   margin-top: 2px;
-  color: #3b6b50;
+  color: #1b533b;
 }
 
 .store-distance-badge {
@@ -857,8 +877,34 @@
   to { transform: translateX(0); opacity: 1; }
 }
 
+.sheet-drag-handle-bar {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0 4px;
+  width: 100%;
+}
+
+.sheet-drag-handle {
+  width: 38px;
+  height: 4.5px;
+  border-radius: 99px;
+  background-color: #cbd7cc;
+  transition: background-color 0.2s ease;
+}
+
+.store-detail-sheet:hover .sheet-drag-handle {
+  background-color: #9ab09c;
+}
+
+@media (max-width: 768px) {
+  .sheet-drag-handle-bar {
+    display: flex;
+  }
+}
+
 .detail-sheet-header {
-  padding: 20px 22px 14px;
+  padding: 16px 22px 14px;
   background: #fbfdfa;
   border-bottom: 1px solid #eef2ed;
 }
@@ -1699,7 +1745,34 @@
   place-items: center;
 }
 .banten-map-viewport .banten-pin-icon-wrap { display: grid; place-items: center; transform: rotate(45deg); }
-.banten-map-viewport .banten-custom-pin.is-active .banten-pin-body { outline: 3px solid #174e3b; outline-offset: 3px; }
+.banten-map-viewport .banten-custom-pin.is-active .banten-pin-body {
+  outline: 3px solid #174e3b;
+  outline-offset: 3px;
+  animation: markerPulseHalo 2s cubic-bezier(0.24, 0, 0.38, 1) infinite;
+  box-shadow: 0 0 0 6px rgba(23, 78, 59, 0.22), 0 8px 24px rgba(23, 78, 59, 0.38);
+  transform: rotate(-45deg) scale(1.12);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease;
+}
+
+@keyframes markerPulseHalo {
+  0% {
+    box-shadow: 0 0 0 0 rgba(23, 78, 59, 0.6), 0 8px 24px rgba(23, 78, 59, 0.38);
+  }
+  70% {
+    box-shadow: 0 0 0 14px rgba(23, 78, 59, 0), 0 8px 24px rgba(23, 78, 59, 0.38);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(23, 78, 59, 0), 0 8px 24px rgba(23, 78, 59, 0.38);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .banten-map-viewport .banten-custom-pin.is-active .banten-pin-body {
+    animation: none;
+    box-shadow: 0 0 0 5px rgba(23, 78, 59, 0.35);
+    transform: rotate(-45deg) scale(1.08);
+  }
+}
 .banten-map-viewport .banten-cluster-inner {
   width: 44px;
   height: 44px;

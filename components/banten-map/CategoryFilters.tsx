@@ -2,7 +2,7 @@
 
 import type { VendorCategory } from "../../lib/vendors/types.ts";
 import { CATEGORY_DEFINITIONS } from "../../lib/vendors/types.ts";
-import { CheckCircle2, ShoppingBag, Layers, Flower2, Apple, Store } from "lucide-react";
+import { CheckCircle2, ShoppingBag, Layers, Flower2, Apple, Store, Bell } from "lucide-react";
 
 interface CategoryFiltersProps {
   activeCategory: VendorCategory | "all" | "checklist_match";
@@ -70,6 +70,12 @@ export default function CategoryFilters({
       label: CATEGORY_DEFINITIONS.pasar_tradisional.shortLabel,
       icon: <Store size={15} />,
       count: categoryCounts.pasar_tradisional || 0
+    },
+    {
+      id: "jero_mangku",
+      label: CATEGORY_DEFINITIONS.jero_mangku.shortLabel,
+      icon: <Bell size={15} />,
+      count: categoryCounts.jero_mangku || 0
     }
   ];
 

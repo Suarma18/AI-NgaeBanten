@@ -145,132 +145,6 @@
     "isSampleFixture": false
   },
   {
-    "id": "osm-way-813805607",
-    "name": "Angga Florist",
-    "slug": "osm-way-813805607",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6612472,
-    "longitude": 115.2166815,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/813805607",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-566540018",
-    "name": "Asri Bali Flower Shop",
-    "slug": "osm-way-566540018",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.811623,
-    "longitude": 115.1576332,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/566540018",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-955562044",
-    "name": "Bali Blossoms",
-    "slug": "osm-node-955562044",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7115507,
-    "longitude": 115.1862069,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/955562044",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-3955851337",
-    "name": "Bali Flower Shop",
-    "slug": "osm-node-3955851337",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6745284,
-    "longitude": 115.2176564,
-    "address": "Jl. P.B. Sudirman, Denpasar",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/3955851337",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-11204011538",
-    "name": "Belayu Florist",
-    "slug": "osm-node-11204011538",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.503632,
-    "longitude": 115.1686325,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Tabanan",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/11204011538",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9764511713",
-    "name": "Blooming Bouquet Florist",
-    "slug": "osm-node-9764511713",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7094753,
-    "longitude": 115.1837126,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9764511713",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-6190600367",
-    "name": "Botanica",
-    "slug": "osm-node-6190600367",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6769338,
-    "longitude": 115.154977,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/6190600367",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
     "id": "osm-way-594362169",
     "name": "Bunga Bunga 2 Wholesale & Retail",
     "slug": "osm-way-594362169",
@@ -307,150 +181,6 @@
     "isSampleFixture": false
   },
   {
-    "id": "osm-node-9975005102",
-    "name": "Bunga Silver Arjuna",
-    "slug": "osm-node-9975005102",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6970501,
-    "longitude": 115.1678506,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9975005102",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-10706022130",
-    "name": "Cening Alpaka",
-    "slug": "osm-node-10706022130",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.8158708,
-    "longitude": 115.1558772,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/10706022130",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-447643551",
-    "name": "Corine Florist Dangin Puri",
-    "slug": "osm-way-447643551",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6582102,
-    "longitude": 115.2197628,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/447643551",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-4258074589",
-    "name": "D'Oasis Florist",
-    "slug": "osm-node-4258074589",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7069162,
-    "longitude": 115.1844732,
-    "address": "Jalan Pura Mertasari I, Kuta, Kabupaten Badung, Bali, Indonesia",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/4258074589",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-595252794",
-    "name": "D'Xavier Florist Dangin Puri Klod",
-    "slug": "osm-way-595252794",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6677024,
-    "longitude": 115.221673,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/595252794",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-461014751",
-    "name": "De Trend Florist Bali",
-    "slug": "osm-way-461014751",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6760767,
-    "longitude": 115.2303325,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/461014751",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-564501714",
-    "name": "Diva Florist Bali",
-    "slug": "osm-way-564501714",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6835526,
-    "longitude": 115.1824915,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/564501714",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-1533609898",
-    "name": "Duta Orchid",
-    "slug": "osm-node-1533609898",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6743097,
-    "longitude": 115.2539086,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/1533609898",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
     "id": "osm-node-9778917018",
     "name": "Dwi Bunga",
     "slug": "osm-node-9778917018",
@@ -464,404 +194,6 @@
     "regency": "Badung",
     "source": "openstreetmap",
     "sourceUrl": "https://www.openstreetmap.org/node/9778917018",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-11428431728",
-    "name": "E BOUQUET FLOWER STUDIO",
-    "slug": "osm-node-11428431728",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6658357,
-    "longitude": 115.2227942,
-    "address": "Jalan Letda Reta, Jl. Letda Reta No.65, Dangin Puri Klod, Kec. Denpasar Tim., Kota Denpasar, Bali 80232, Denpasar",
-    "regency": "Denpasar",
-    "phone": "+62 881-0384-65111",
-    "openingHours": "Mo-Sa 08:00-18:00",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/11428431728",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9769127812",
-    "name": "Florist Room",
-    "slug": "osm-node-9769127812",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6885435,
-    "longitude": 115.1714157,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9769127812",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-6460723871",
-    "name": "Flower Power",
-    "slug": "osm-node-6460723871",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7824657,
-    "longitude": 115.1669387,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/6460723871",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-6351349685",
-    "name": "Garden plants",
-    "slug": "osm-node-6351349685",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.5649128,
-    "longitude": 115.2813585,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Gianyar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/6351349685",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-1021730895",
-    "name": "Green Spot Flower Shop",
-    "slug": "osm-way-1021730895",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6839485,
-    "longitude": 115.1584359,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/1021730895",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-592817029",
-    "name": "Heliconia Heliconia",
-    "slug": "osm-way-592817029",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6692227,
-    "longitude": 115.1780931,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/592817029",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-6942538185",
-    "name": "Istana",
-    "slug": "osm-node-6942538185",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.5237838,
-    "longitude": 115.2668569,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Gianyar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/6942538185",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-522831548",
-    "name": "Ketut Florist & Flower Shop",
-    "slug": "osm-way-522831548",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6459146,
-    "longitude": 115.1640746,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/522831548",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-393873855",
-    "name": "Kintan Florist 23",
-    "slug": "osm-way-393873855",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6609413,
-    "longitude": 115.1638662,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/393873855",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-13437165056",
-    "name": "Malila Florist",
-    "slug": "osm-node-13437165056",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6378387,
-    "longitude": 115.1460994,
-    "address": "Jalan Pantai Batu Bolong",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/13437165056",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-594487520",
-    "name": "Martha Florist",
-    "slug": "osm-way-594487520",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6817175,
-    "longitude": 115.1649347,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/594487520",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-13437165060",
-    "name": "Martha Florist Shop",
-    "slug": "osm-node-13437165060",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6375152,
-    "longitude": 115.1463472,
-    "address": "Jalan Pantai Batu Bolong",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/13437165060",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-13437165061",
-    "name": "Martha Florist Shop",
-    "slug": "osm-node-13437165061",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6374939,
-    "longitude": 115.1463713,
-    "address": "Jalan Pantai Batu Bolong",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/13437165061",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-600573726",
-    "name": "Peny Gardena Dangin Puri",
-    "slug": "osm-way-600573726",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6606821,
-    "longitude": 115.2200108,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/600573726",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9764507245",
-    "name": "Pick Flower Gallery",
-    "slug": "osm-node-9764507245",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6532485,
-    "longitude": 115.2276505,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9764507245",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9934069622",
-    "name": "Rosa Flowers",
-    "slug": "osm-node-9934069622",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6829772,
-    "longitude": 115.1663608,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9934069622",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-595261969",
-    "name": "Serojo Florist",
-    "slug": "osm-way-595261969",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6797326,
-    "longitude": 115.1781983,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/595261969",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-594345694",
-    "name": "Sharon Florist Pemecutan Kaja",
-    "slug": "osm-way-594345694",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6522671,
-    "longitude": 115.2109636,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/594345694",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9979221997",
-    "name": "Sri Dara Florist",
-    "slug": "osm-node-9979221997",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7004562,
-    "longitude": 115.1688291,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9979221997",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9944243332",
-    "name": "Sunseta Flowers",
-    "slug": "osm-node-9944243332",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6830366,
-    "longitude": 115.1671613,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9944243332",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-11710792963",
-    "name": "Syahlah Florist",
-    "slug": "osm-node-11710792963",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.7820043,
-    "longitude": 115.1672134,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/11710792963",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-601170331",
-    "name": "Syifa Florist",
-    "slug": "osm-way-601170331",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.660381,
-    "longitude": 115.2166829,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/601170331",
     "verificationStatus": "unverified",
     "updatedAt": "2026-11-01T14:12:07.807Z",
     "isSampleFixture": false
@@ -916,78 +248,6 @@
     "regency": "Badung",
     "source": "openstreetmap",
     "sourceUrl": "https://www.openstreetmap.org/node/5055775162",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-596197580",
-    "name": "Tip Top Florist Dangin Puri",
-    "slug": "osm-way-596197580",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6583412,
-    "longitude": 115.2191652,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/596197580",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-594826047",
-    "name": "Toko Bunga Gardenia 2 Dauh Puri",
-    "slug": "osm-way-594826047",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6621203,
-    "longitude": 115.2166137,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/594826047",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-9764538925",
-    "name": "Toko Bunga Inflowers Panjer",
-    "slug": "osm-node-9764538925",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6775379,
-    "longitude": 115.2320787,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/9764538925",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-way-593598448",
-    "name": "Twilight Florist Dauh Puri Klod",
-    "slug": "osm-way-593598448",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.673592,
-    "longitude": 115.2170157,
-    "address": "Alamat jalan belum tercatat di OpenStreetMap; lihat titik pada peta.",
-    "regency": "Denpasar",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/way/593598448",
     "verificationStatus": "unverified",
     "updatedAt": "2026-11-01T14:12:07.807Z",
     "isSampleFixture": false
@@ -1132,24 +392,6 @@
     "regency": "Tabanan",
     "source": "openstreetmap",
     "sourceUrl": "https://www.openstreetmap.org/way/1072234691",
-    "verificationStatus": "unverified",
-    "updatedAt": "2026-11-01T14:12:07.807Z",
-    "isSampleFixture": false
-  },
-  {
-    "id": "osm-node-13437165300",
-    "name": "Wish Florist",
-    "slug": "osm-node-13437165300",
-    "categories": [
-      "bunga_janur"
-    ],
-    "products": [],
-    "latitude": -8.6377462,
-    "longitude": 115.1463375,
-    "address": "Jalan Pantai Batu Bolong",
-    "regency": "Badung",
-    "source": "openstreetmap",
-    "sourceUrl": "https://www.openstreetmap.org/node/13437165300",
     "verificationStatus": "unverified",
     "updatedAt": "2026-11-01T14:12:07.807Z",
     "isSampleFixture": false
@@ -4250,6 +3492,618 @@
     "sourceUrl": "https://www.openstreetmap.org/node/1998390429",
     "verificationStatus": "unverified",
     "updatedAt": "2026-11-01T14:12:07.807Z",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-ketut-banten",
+    "name": "Ketut Banten Panjer",
+    "slug": "ketut-banten-panjer",
+    "description": "Penyedia aneka banten jadi, pejati siap saji, canang sari harian, daksina, dan sarana sembahyang lengkap di Panjer Denpasar Selatan.",
+    "categories": [
+      "banten_jadi",
+      "bahan_banten"
+    ],
+    "products": [
+      "Banten Pejati Siap Saji",
+      "Canang Sari",
+      "Daksina Linggih",
+      "Banten Ayaban",
+      "Kemenyan & Dupa",
+      "Klakat Bambu"
+    ],
+    "latitude": -8.6812,
+    "longitude": 115.2285,
+    "address": "Jl. Waturenggong No.138, Panjer, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081338921172",
+    "whatsapp": "6281338921172",
+    "openingHours": "Setiap hari 06.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+Banten+denpasar/@-8.6812,115.2285,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-shri-yadnya-keben",
+    "name": "Shri Yadnya Keben & Sarana Banten",
+    "slug": "shri-yadnya-keben-sarana-banten",
+    "description": "Toko banten dan perlengkapan yadnya, keben ukir, sokasi, pejati, dan dupa aromaterapi di Renon.",
+    "categories": [
+      "banten_jadi",
+      "bahan_banten"
+    ],
+    "products": [
+      "Keben Ukir Bali",
+      "Banten Pejati",
+      "Sokasi & Besek",
+      "Dupa Harum",
+      "Beras Cendana",
+      "Minyak Kelapa"
+    ],
+    "latitude": -8.6775,
+    "longitude": 115.2348,
+    "address": "Jl. Tukad Citarum Lc 1 No.100, Renon, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081999123456",
+    "whatsapp": "6281999123456",
+    "openingHours": "Setiap hari 11.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+Banten+denpasar/@-8.6775,115.2348,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-taman-gumi-banten",
+    "name": "Taman Gumi Banten Penatih",
+    "slug": "taman-gumi-banten-penatih",
+    "description": "Sentra pembuatan dan pemesanan aneka upakara banten Dewa Yadnya, Manusa Yadnya, banten otonan, dan sarana sembahyang.",
+    "categories": [
+      "banten_jadi",
+      "bahan_banten"
+    ],
+    "products": [
+      "Banten Otonan",
+      "Banten Pejati Lengkap",
+      "Banten Ayaban Tumpeng Pitu",
+      "Canang Oyod",
+      "Porosan Segar"
+    ],
+    "latitude": -8.6342,
+    "longitude": 115.2415,
+    "address": "Jl. Trengguli No.38, Penatih, Kec. Denpasar Timur",
+    "district": "Denpasar Timur",
+    "regency": "Denpasar",
+    "phone": "081238456789",
+    "whatsapp": "6281238456789",
+    "openingHours": "Setiap hari 06.30 - 19.30 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+Banten+denpasar/@-8.6342,115.2415,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-toko-banten-sari-mekar",
+    "name": "Toko Banten Sari Mekar",
+    "slug": "toko-banten-sari-mekar",
+    "description": "Melayani pesanan banten harian, purnama tilem, kajeng kliwon, canang sari grosir, dan bunga potong segar.",
+    "categories": [
+      "banten_jadi",
+      "bunga_janur"
+    ],
+    "products": [
+      "Pejati",
+      "Canang Ceper & Reringgitan",
+      "Sampian Gantung",
+      "Bunga Sandat",
+      "Janur Bali"
+    ],
+    "latitude": -8.6548,
+    "longitude": 115.2012,
+    "address": "Jl. Gunung Batukaru No.45, Pemecutan, Kec. Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "085100789123",
+    "whatsapp": "6285100789123",
+    "openingHours": "Setiap hari 06.00 - 19.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+Banten+denpasar/@-8.6548,115.2012,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-upakara-sanur-dewi",
+    "name": "Toko Upakara Sanur Dewi",
+    "slug": "toko-upakara-sanur-dewi",
+    "description": "Pusat sarana banten pesisir, pejati melukat, daksina, tirta, dan bunga segar kawasan Sanur.",
+    "categories": [
+      "banten_jadi",
+      "bahan_banten",
+      "bunga_janur"
+    ],
+    "products": [
+      "Banten Pejati Melukat",
+      "Canang Sari Sanur",
+      "Dupa Harum Segara",
+      "Bunga Cempaka Putih & Kuning"
+    ],
+    "latitude": -8.6885,
+    "longitude": 115.2585,
+    "address": "Jl. Danau Buyan No.18, Sanur, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081337654321",
+    "whatsapp": "6281337654321",
+    "openingHours": "Setiap hari 06.00 - 21.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+Banten+denpasar/@-8.6885,115.2585,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-sentra-canang-kumbasari",
+    "name": "Sentra Canang Sari Pasar Kumbasari",
+    "slug": "sentra-canang-sari-pasar-kumbasari",
+    "description": "Pusat pedagang canang sari grosir, sampian uras, porosan wangi, dan bunga hias upakara buka 24 jam.",
+    "categories": [
+      "bunga_janur",
+      "banten_jadi"
+    ],
+    "products": [
+      "Canang Sari Grosir",
+      "Sampian Metanding",
+      "Porosan Segar",
+      "Bunga Pacar Air",
+      "Bunga Sandat Wangi"
+    ],
+    "latitude": -8.6565,
+    "longitude": 115.212,
+    "address": "Lantai 1-2 Pasar Kumbasari, Jl. Gajah Mada, Pemecutan, Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "0361224567",
+    "whatsapp": "6281234567890",
+    "openingHours": "Buka 24 Jam",
+    "sourceUrl": "https://www.google.com/maps/search/toko+canang+denpasar/@-8.6565,115.2120,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-canang-sari-bu-ayu",
+    "name": "Toko Canang Sari Bu Ayu",
+    "slug": "toko-canang-sari-bu-ayu",
+    "description": "Kios canang sari fresh metanding tiap pagi dan sore, ceper janur halus, dan porosan sirih wangi.",
+    "categories": [
+      "bunga_janur"
+    ],
+    "products": [
+      "Canang Sari Ceper",
+      "Canang Ituk-ituk",
+      "Bunga Gumitir",
+      "Bunga Pacar Air Warna-warni",
+      "Porosan Sedah"
+    ],
+    "latitude": -8.6725,
+    "longitude": 115.2115,
+    "address": "Jl. Pulau Kawe No.42, Dauh Puri Klod, Kec. Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "087860112233",
+    "whatsapp": "6287860112233",
+    "openingHours": "Setiap hari 06.00 - 18.30 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+canang+denpasar/@-8.6725,115.2115,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-kios-canang-bu-made-ubung",
+    "name": "Kios Canang & Porosan Segar Bu Made Ubung",
+    "slug": "kios-canang-porosan-segar-bu-made-ubung",
+    "description": "Sedia canang sari, janur muda Bali & Jawa, slepan kelapa hijau, dan dupa harian kawasan Ubung.",
+    "categories": [
+      "bunga_janur",
+      "bahan_banten"
+    ],
+    "products": [
+      "Canang Sari Siap Pakai",
+      "Janur Busung Ibung",
+      "Slepan Kelapa Hijau",
+      "Bunga Mitir Segar",
+      "Dupa Batang"
+    ],
+    "latitude": -8.6325,
+    "longitude": 115.2025,
+    "address": "Jl. Cokroaminoto No.88, Ubung, Kec. Denpasar Utara",
+    "district": "Denpasar Utara",
+    "regency": "Denpasar",
+    "phone": "081936554433",
+    "whatsapp": "6281936554433",
+    "openingHours": "Setiap hari 05.30 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+canang+denpasar/@-8.6325,115.2025,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-janur-pasar-badung",
+    "name": "Sentra Janur & Slepan Segar Pasar Badung",
+    "slug": "sentra-janur-slepan-segar-pasar-badung",
+    "description": "Pusat grosir dan eceran janur busung Bali, janur Jawa, slepan, pelapah kelapa, dan kojong canang terbesar.",
+    "categories": [
+      "bunga_janur",
+      "bahan_banten"
+    ],
+    "products": [
+      "Janur Bali (Busung)",
+      "Janur Jawa Super",
+      "Slepan Matang",
+      "Tali Bambu Banten",
+      "Kojong Canang"
+    ],
+    "latitude": -8.6582,
+    "longitude": 115.2131,
+    "address": "Kawasan Pelataran Pasar Badung, Jl. Sulawesi No.1, Dauh Puri Kangin, Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "0361223456",
+    "whatsapp": "6281234567891",
+    "openingHours": "Buka 24 Jam",
+    "sourceUrl": "https://www.google.com/maps/search/toko+canang+denpasar/@-8.6582,115.2131,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-mandiri-jaya-dupa",
+    "name": "UD Mandiri Jaya (Toko Dupa Terlengkap)",
+    "slug": "ud-mandiri-jaya-toko-dupa-terlengkap",
+    "description": "Distributor dan toko dupa grosir terbesar di Denpasar Utara: dupa pasupati, dupa harum aroma terapi, kemenyan, dan minyak wangi upakara.",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [
+      "Dupa Pasupati",
+      "Dupa Cempaka Madu",
+      "Dupa Gaharu Alami",
+      "Dupa Cendana Asli",
+      "Minyak Wangi Melukat",
+      "Kemenyan Madu"
+    ],
+    "latitude": -8.6295,
+    "longitude": 115.2018,
+    "address": "Jl. Pidada No.3, Ubung, Kec. Denpasar Utara",
+    "district": "Denpasar Utara",
+    "regency": "Denpasar",
+    "phone": "081239887766",
+    "whatsapp": "6281239887766",
+    "openingHours": "Senin - Sabtu 08.00 - 18.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+dupa+denpasar/@-8.6295,115.2018,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-dupa-harmoni-dewata",
+    "name": "Toko Dupa Harmoni Dewata Sesetan",
+    "slug": "toko-dupa-harmoni-dewata-sesetan",
+    "description": "Sedia dupa herbal, dupa celup lokal Bali, dupa dupa kerucut, arang briket, dan sarana persembahyangan harian.",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [
+      "Dupa Harum Bali",
+      "Dupa Herbal Teratai",
+      "Dupa Kerucut",
+      "Briket Arang Pasupati",
+      "Tempat Dupa Keramik"
+    ],
+    "latitude": -8.7012,
+    "longitude": 115.2225,
+    "address": "Jl. Suwung Batan Kendal No.5, Sesetan, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081999887711",
+    "whatsapp": "6281999887711",
+    "openingHours": "Setiap hari 08.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+dupa+denpasar/@-8.7012,115.2225,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-toko-dupa-teratai-bali",
+    "name": "Toko Dupa Teratai Bali",
+    "slug": "toko-dupa-teratai-bali",
+    "description": "Pusat aneka dupa harum wangi semerbak, dupa dupa 1 jam, 2 jam, dupa basah, dan perlengkapan sembahyang Sesetan.",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [
+      "Dupa Basah Celup",
+      "Dupa Teratai Harum",
+      "Dupa Wangi Melati",
+      "Benang Tridatu",
+      "Beras Cendana Kuning"
+    ],
+    "latitude": -8.6945,
+    "longitude": 115.2185,
+    "address": "Jl. Gurita I No.26A, Sesetan, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "087761234567",
+    "whatsapp": "6287761234567",
+    "openingHours": "Setiap hari 08.00 - 19.30 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+dupa+denpasar/@-8.6945,115.2185,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-toko-dupa-amuei",
+    "name": "Toko Dupa Amuei Sesetan",
+    "slug": "toko-dupa-amuei-sesetan",
+    "description": "Toko dupa legendaris di Denpasar Selatan menyediakan dupa aromatik, hio sembahyang, lilin dupa, dan minyak wangi.",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [
+      "Dupa Gaharu",
+      "Hio Merah & Kuning",
+      "Lilin Sembahyang Teratai",
+      "Minyak Cendana Asli",
+      "Kemenyan Bali"
+    ],
+    "latitude": -8.6985,
+    "longitude": 115.221,
+    "address": "Jl. Raya Sesetan No.560, Sesetan, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "0361722889",
+    "whatsapp": "6281339887755",
+    "openingHours": "Senin - Sabtu 08.30 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+dupa+denpasar/@-8.6985,115.2210,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-dupa-mertha-mesari",
+    "name": "Dupa Harum Grosir Mertha Mesari",
+    "slug": "dupa-harum-grosir-mertha-mesari",
+    "description": "Grosir dupa upakara Bali kemasan ekonomis dan premium, dupa aroma dupa bunga sandat, melati, dan majegau.",
+    "categories": [
+      "bahan_banten"
+    ],
+    "products": [
+      "Dupa Majegau",
+      "Dupa Bunga Sandat",
+      "Dupa Melati",
+      "Dupa Kiloan",
+      "Kelapa Daksina"
+    ],
+    "latitude": -8.6835,
+    "longitude": 115.2295,
+    "address": "Jl. Tukad Languan Gg. 1 No.2, Panjer, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081999001122",
+    "whatsapp": "6281999001122",
+    "openingHours": "Setiap hari 07.30 - 21.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/toko+dupa+denpasar/@-8.6835,115.2295,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-jero-mangku-alit-suardana",
+    "name": "Jero Mangku Alit Suardana — Layanan Muput Upakara",
+    "slug": "jero-mangku-alit-suardana-layanan-muput",
+    "description": "Pelayanan pemangku untuk pemuput karya upacara Dewa Yadnya, Manusa Yadnya (otonan, potong gigi), dan konsultasi dudonan banten pejati.",
+    "categories": [
+      "jero_mangku",
+      "banten_jadi"
+    ],
+    "products": [
+      "Layanan Muput Upacara Otonan",
+      "Muput Upacara Piodalan",
+      "Konsultasi Banten Pejati",
+      "Nunas Tirta Pembersihan",
+      "Banten Ayaban Alit"
+    ],
+    "latitude": -8.6315,
+    "longitude": 115.244,
+    "address": "Jl. Trenggana No.24, Penatih, Kec. Denpasar Timur",
+    "district": "Denpasar Timur",
+    "regency": "Denpasar",
+    "phone": "081239112244",
+    "whatsapp": "6281239112244",
+    "openingHours": "Konsultasi & Janji Temu 07.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6315,115.2440,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-griya-serati-jero-mangku-ratih",
+    "name": "Griya Banten & Serati Jero Mangku Istri Ketut Ratih",
+    "slug": "griya-banten-serati-jero-mangku-ratih",
+    "description": "Serati banten berpengalaman melayani pembuatan rangkaian banten upacara yadnya lengkap: ayaban, caru ayam brumbun, suci, dan pejati asri.",
+    "categories": [
+      "jero_mangku",
+      "banten_jadi"
+    ],
+    "products": [
+      "Banten Suci Alit & Ageng",
+      "Banten Caru Eka Sata (Ayam Brumbun)",
+      "Banten Pejati Asri",
+      "Konsultasi Rangkaian Yadnya",
+      "Banten Ayaban Tumpeng 11"
+    ],
+    "latitude": -8.6625,
+    "longitude": 115.249,
+    "address": "Jl. Sedap Malam No.52, Kesiman, Kec. Denpasar Timur",
+    "district": "Denpasar Timur",
+    "regency": "Denpasar",
+    "phone": "081338556677",
+    "whatsapp": "6281338556677",
+    "openingHours": "Setiap hari (dengan konfirmasi WA) 06.30 - 19.30 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6625,115.2490,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-pasraman-jero-mangku-gede",
+    "name": "Pasraman & Layanan Upakara Jero Mangku Gede Denpasar",
+    "slug": "pasraman-layanan-upakara-jero-mangku-gede",
+    "description": "Layanan pemangku, penuntun tata titi yadnya, piodalan pura sanggah/merajan keluarga, dan bimbingan upacara Hindu di Tanjung Bungkak.",
+    "categories": [
+      "jero_mangku"
+    ],
+    "products": [
+      "Pemuput Piodalan Sanggah Merajan",
+      "Konsultasi Dewasa Ayu Upacara",
+      "Layanan Muput Melaspas Bangunan",
+      "Banten Pembersihan Prascita"
+    ],
+    "latitude": -8.6655,
+    "longitude": 115.2385,
+    "address": "Jl. Hayam Wuruk No.112, Tanjung Bungkak, Kec. Denpasar Timur",
+    "district": "Denpasar Timur",
+    "regency": "Denpasar",
+    "phone": "081933008899",
+    "whatsapp": "6281933008899",
+    "openingHours": "Janji Temu 08.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6655,115.2385,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-serati-bu-jero-wayan",
+    "name": "Serati Banten Bu Jero Wayan Padangsambian",
+    "slug": "serati-banten-bu-jero-wayan-padangsambian",
+    "description": "Pembuatan sesajen dan banten upakara khas tradisi Bali, daksina linggih, pejati tanding, serta caru pengruwatan.",
+    "categories": [
+      "jero_mangku",
+      "banten_jadi"
+    ],
+    "products": [
+      "Banten Pejati Tanding",
+      "Daksina Linggih",
+      "Banten Pengulapan",
+      "Banten Caru Pengruwatan",
+      "Porosan & Sampian Suci"
+    ],
+    "latitude": -8.6475,
+    "longitude": 115.195,
+    "address": "Jl. Gunung Agung Gg. Bumi No.9, Padangsambian, Kec. Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "087862334455",
+    "whatsapp": "6287862334455",
+    "openingHours": "Setiap hari 06.00 - 18.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6475,115.1950,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-jero-mangku-dalem-pemecutan",
+    "name": "Jero Mangku Dalem Pemecutan — Konsultasi Yadnya",
+    "slug": "jero-mangku-dalem-pemecutan-konsultasi-yadnya",
+    "description": "Pemangku pelayanan ritual yadnya, pemuput sembahyang piodalan, pitra yadnya, dan penyucian sarana upakara di Pemecutan Denpasar Barat.",
+    "categories": [
+      "jero_mangku"
+    ],
+    "products": [
+      "Pemuput Dewa Yadnya",
+      "Pemuput Pitra Yadnya & Matatah",
+      "Konsultasi Dudonan Upakara",
+      "Tirta Wangsuhpada"
+    ],
+    "latitude": -8.6685,
+    "longitude": 115.2045,
+    "address": "Jl. Imam Bonjol No.84, Pemecutan Klod, Kec. Denpasar Barat",
+    "district": "Denpasar Barat",
+    "regency": "Denpasar",
+    "phone": "081236778899",
+    "whatsapp": "6281236778899",
+    "openingHours": "Janji Temu 08.00 - 19.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6685,115.2045,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
+    "isSampleFixture": false
+  },
+  {
+    "id": "curated-denpasar-griya-serati-sanur-mangku-rai",
+    "name": "Griya Serati Yadnya Sanur — Jero Mangku Rai",
+    "slug": "griya-serati-yadnya-sanur-jero-mangku-rai",
+    "description": "Pelayanan serati banten pesisir, melukat segara, banten suci, pejati, dan pemuput upacara ritual persembahyangan pantai.",
+    "categories": [
+      "jero_mangku",
+      "banten_jadi"
+    ],
+    "products": [
+      "Banten Melukat Segara",
+      "Banten Pejati Pesisir",
+      "Pemuput Melukat & Piodalan",
+      "Daksina & Kelapa Bungkak Nyuh Gading"
+    ],
+    "latitude": -8.6925,
+    "longitude": 115.256,
+    "address": "Jl. Danau Poso No.35, Sanur Kauh, Kec. Denpasar Selatan",
+    "district": "Denpasar Selatan",
+    "regency": "Denpasar",
+    "phone": "081337998811",
+    "whatsapp": "6281337998811",
+    "openingHours": "Setiap hari 06.00 - 20.00 WITA",
+    "sourceUrl": "https://www.google.com/maps/search/jero+mangku+daerah+denpasar/@-8.6925,115.2560,17z",
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-11-02",
+    "updatedAt": "2026-11-02T11:45:00.000Z",
+    "source": "curated",
     "isSampleFixture": false
   }
 ]

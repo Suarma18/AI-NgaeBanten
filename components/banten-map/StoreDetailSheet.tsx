@@ -62,6 +62,9 @@ export default function StoreDetailSheet({
 
   return (
     <aside className="store-detail-sheet" aria-labelledby="store-detail-title" ref={sheetRef} tabIndex={-1}>
+      <div className="sheet-drag-handle-bar" aria-hidden="true">
+        <div className="sheet-drag-handle" />
+      </div>
       <div className="detail-sheet-header">
         <div className="detail-sheet-top-row">
           <div className="detail-badges-group">
@@ -202,7 +205,7 @@ export default function StoreDetailSheet({
         {/* Products recorded */}
         {vendor.products && vendor.products.length > 0 && (
           <section className="detail-products-section">
-            <h3 className="section-title">Produk & Sarana yang Tercatat</h3>
+            <h3 className="section-title">{vendor.categories.includes("jero_mangku") ? "Layanan Upacara & Sarana Banten" : "Produk & Sarana yang Tercatat"}</h3>
             <div className="detail-products-grid">
               {vendor.products.map((prod, idx) => (
                 <span key={idx} className="detail-product-tag">
@@ -238,14 +241,14 @@ export default function StoreDetailSheet({
             className="detail-action-btn is-whatsapp"
           >
             <MessageCircle size={17} />
-            <span>Hubungi WhatsApp</span>
+            <span>{vendor.categories.includes("jero_mangku") ? "Hubungi Jero Mangku / Serati" : "Hubungi WhatsApp"}</span>
           </a>
         )}
 
         {!waUrl && telUrl && (
           <a href={telUrl} className="detail-action-btn is-outline">
             <Phone size={17} />
-            <span>Telepon Penjual</span>
+            <span>{vendor.categories.includes("jero_mangku") ? "Hubungi Jero Mangku" : "Telepon Penjual"}</span>
           </a>
         )}
 

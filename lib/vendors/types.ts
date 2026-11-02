@@ -3,7 +3,8 @@ export type VendorCategory =
   | "bahan_banten"
   | "bunga_janur"
   | "buah_upakara"
-  | "pasar_tradisional";
+  | "pasar_tradisional"
+  | "jero_mangku";
 
 export type VerificationStatus = "verified" | "unverified";
 
@@ -85,6 +86,15 @@ export const CATEGORY_DEFINITIONS: Record<VendorCategory, CategoryMeta> = {
     bgLight: "#eff6ff",
     borderColor: "#bfdbfe",
     description: "Pusat pasar rakyat dan pasar desa dengan banyak penjual sarana upakara"
+  },
+  jero_mangku: {
+    id: "jero_mangku",
+    label: "Jero Mangku & Serati",
+    shortLabel: "Jero Mangku",
+    color: "#b45309",
+    bgLight: "#fef3c7",
+    borderColor: "#fde68a",
+    description: "Pelayanan pemangku, serati banten, konsultasi rangkaian yadnya, dan pemuput upacara"
   }
 };
 

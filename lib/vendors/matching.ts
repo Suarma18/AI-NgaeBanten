@@ -15,7 +15,8 @@ const PRODUCT_CATEGORY_KEYWORDS: Record<string, string[]> = {
   kelapa: ["kelapa", "kelapa gading", "kelapa daksina", "bungkak"],
   beras: ["beras", "ketan", "injin", "benang"],
   minyak: ["minyak kelapa", "minyak wangi"],
-  klakat: ["klakat", "ancak", "sokasi", "besek"]
+  klakat: ["klakat", "ancak", "sokasi", "besek"],
+  serati: ["serati", "pemangku", "jero mangku", "muput", "puput", "banten suci", "ayaban", "caru", "prascita", "dudonan"]
 };
 
 function normalizeText(text: string): string {
@@ -52,13 +53,14 @@ export function itemMatchesVendor(itemName: string, vendor: Vendor): boolean {
     if (itemHasKey) {
       // Check if vendor categories match this keyword type
       if (
-        (key === "pejati" && vendor.categories.includes("banten_jadi")) ||
-        (key === "canang" && (vendor.categories.includes("banten_jadi") || vendor.categories.includes("bunga_janur"))) ||
+        (key === "pejati" && (vendor.categories.includes("banten_jadi") || vendor.categories.includes("jero_mangku"))) ||
+        (key === "canang" && (vendor.categories.includes("banten_jadi") || vendor.categories.includes("bunga_janur") || vendor.categories.includes("jero_mangku"))) ||
         (key === "janur" && vendor.categories.includes("bunga_janur")) ||
         (key === "bunga" && vendor.categories.includes("bunga_janur")) ||
         (key === "buah" && vendor.categories.includes("buah_upakara")) ||
         ((key === "dupa" || key === "daksina" || key === "kelapa" || key === "beras") &&
-          vendor.categories.includes("bahan_banten"))
+          vendor.categories.includes("bahan_banten")) ||
+        (key === "serati" && (vendor.categories.includes("jero_mangku") || vendor.categories.includes("banten_jadi")))
       ) {
         return true;
       }

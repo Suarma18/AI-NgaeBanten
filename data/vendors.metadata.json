@@ -2,27 +2,28 @@
   "source": "OpenStreetMap contributors",
   "license": "ODbL-1.0",
   "licenseUrl": "https://www.openstreetmap.org/copyright",
-  "fetchedAt": "2026-11-01T14:12:07.807Z",
+  "fetchedAt": "2026-11-02T03:56:40.463Z",
   "sourceBaseTimestamps": [
     "2026-11-01T14:10:21Z"
   ],
-  "count": 235,
+  "count": 213,
   "regencies": {
-    "Badung": 70,
-    "Bangli": 6,
+    "Badung": 50,
+    "Denpasar": 64,
     "Buleleng": 34,
-    "Denpasar": 63,
-    "Gianyar": 20,
-    "Jembrana": 3,
+    "Tabanan": 20,
+    "Gianyar": 18,
     "Karangasem": 13,
     "Klungkung": 5,
-    "Tabanan": 21
+    "Bangli": 6,
+    "Jembrana": 3
   },
   "categories": {
-    "banten_jadi": 1,
-    "bahan_banten": 7,
-    "bunga_janur": 56,
+    "banten_jadi": 11,
+    "bahan_banten": 18,
+    "bunga_janur": 20,
     "buah_upakara": 34,
-    "pasar_tradisional": 137
+    "pasar_tradisional": 137,
+    "jero_mangku": 6
   }
 }

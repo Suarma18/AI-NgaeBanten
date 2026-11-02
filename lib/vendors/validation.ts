@@ -5,7 +5,8 @@ const VALID_CATEGORIES: Set<VendorCategory> = new Set([
   "bahan_banten",
   "bunga_janur",
   "buah_upakara",
-  "pasar_tradisional"
+  "pasar_tradisional",
+  "jero_mangku"
 ]);
 
 // Latitude & Longitude bounds for the Bali province region

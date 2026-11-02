@@ -30,10 +30,11 @@ export default function StoreCard({
   const primaryCat = vendor.categories[0] || "pasar_tradisional";
   const catMeta = CATEGORY_DEFINITIONS[primaryCat];
   const distanceLabel = formatDistance(vendor.distanceKm);
+  const isJeroMangku = vendor.categories.includes("jero_mangku");
 
   return (
     <article
-      className={`store-card ${isSelected ? "is-selected" : ""}`}
+      className={`store-card ${isSelected ? "is-selected" : ""} ${isJeroMangku ? "is-jero-mangku" : ""}`}
       onClick={() => onSelect(vendor)}
     >
       <div className="store-card-header">

@@ -22,7 +22,7 @@ assert.equal(new Set(snapshot.map((vendor) => vendor.id)).size, snapshot.length)
 for (const region of BALI_REGIONS.filter((entry) => entry.id !== "all")) {
   assert.ok(snapshot.some((vendor) => vendor.regency === region.id), `Missing real snapshot coverage: ${region.id}`);
 }
-assert.ok(snapshot.every((vendor) => vendor.source === "openstreetmap" && vendor.sourceUrl && !vendor.isSampleFixture && vendor.verificationStatus === "unverified"));
+assert.ok(snapshot.every((vendor) => (vendor.source === "openstreetmap" || vendor.source === "curated") && vendor.sourceUrl && !vendor.isSampleFixture));
 const parsed = parseOverpassResponse({ elements: [node, node, { ...node, id: 2, lat: -8.219, lon: 114.369 },
   { ...node, id: 3, tags: {} }, { ...node, id: 4, lon: "115.2" }, { ...node, id: "unsafe" }] }, "all", when);
 assert.equal(parsed.vendors.length, 1);
@@ -35,6 +35,7 @@ assert.match(parsed.vendors[0].address, /belum tercatat/);
 assert.equal(parseOverpassResponse(raw, "Gianyar", when).vendors.length, 0);
 assert.equal(parseOverpassResponse({ elements: [{ ...node, tags: { name: "Bunga Laundry", shop: "laundry" } }] }, "all", when).vendors.length, 0);
 assert.equal(parseOverpassResponse({ elements: [{ ...node, tags: { name: "Bunga Party Shop", shop: "party" } }] }, "all", when).vendors.length, 0);
+assert.equal(parseOverpassResponse({ elements: [{ ...node, tags: { name: "Bali Florist Studio", shop: "florist" } }] }, "all", when).vendors.length, 0);
 assert.equal(parseOverpassResponse({ elements: [{ ...node, type: "way", lat: undefined, lon: undefined,
   center: { lat: node.lat, lon: node.lon } }] }, "all", when).vendors.length, 1);
 assert.throws(() => parseOverpassResponse({ elements: [], remark: "runtime error" }, "all", when));

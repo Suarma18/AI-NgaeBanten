@@ -3,7 +3,7 @@
 import type { VendorWithDistance } from "../../lib/vendors/types.ts";
 import { CATEGORY_DEFINITIONS } from "../../lib/vendors/types.ts";
 import { formatDistance } from "../../lib/vendors/distance.ts";
-import { buildTelUrl, buildWhatsAppUrl } from "../../lib/vendors/contact.ts";
+import { buildTelUrl, buildWhatsAppUrl, buildWhatsAppTemplateUrl } from "../../lib/vendors/contact.ts";
 import {
   X,
   MapPin,
@@ -15,7 +15,9 @@ import {
   CheckCircle2,
   AlertCircle,
   Bookmark,
-  Share2
+  Share2,
+  ShoppingBag,
+  Sparkles
 } from "lucide-react";
 import { useState } from "react";
 import { useDialog } from "./useDialog.ts";
@@ -25,13 +27,15 @@ interface StoreDetailSheetProps {
   onClose: () => void;
   isFavorite: boolean;
   onToggleFavorite: (id: string, e: React.MouseEvent) => void;
+  checklist?: Array<{ name: string; quantity?: number | null; unit?: string | null }>;
 }
 
 export default function StoreDetailSheet({
   vendor,
   onClose,
   isFavorite,
-  onToggleFavorite
+  onToggleFavorite,
+  checklist = []
 }: StoreDetailSheetProps) {
   const [copyState, setCopyState] = useState<"idle" | "copied" | "failed">("idle");
   const sheetRef = useDialog<HTMLElement>(Boolean(vendor), onClose);
@@ -46,8 +50,34 @@ export default function StoreDetailSheet({
   const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${vendor.latitude},${vendor.longitude}`;
 
   // Contact links only when the recorded number is usable
+  const isJeroMangku = vendor.categories.includes("jero_mangku");
+  const rawContact = vendor.whatsapp || vendor.phone;
   const waUrl = buildWhatsAppUrl(vendor.whatsapp);
   const telUrl = buildTelUrl(vendor.phone);
+
+  const waOrderUrl = buildWhatsAppTemplateUrl({
+    phone: rawContact,
+    vendorName: vendor.name,
+    isJeroMangku,
+    templateType: "order",
+    checklist
+  });
+
+  const waConsultUrl = buildWhatsAppTemplateUrl({
+    phone: rawContact,
+    vendorName: vendor.name,
+    isJeroMangku,
+    templateType: "consultation",
+    checklist
+  });
+
+  const waInquiryUrl = buildWhatsAppTemplateUrl({
+    phone: rawContact,
+    vendorName: vendor.name,
+    isJeroMangku: false,
+    templateType: "inquiry",
+    checklist
+  });
 
   const handleCopyShare = async () => {
     const text = `${vendor.name}\n${vendor.address}\nKoordinat: ${vendor.latitude}, ${vendor.longitude}\nPeta AI NgaeBanten`;
@@ -222,6 +252,58 @@ export default function StoreDetailSheet({
 
       {/* Action Buttons Footer */}
       <div className="detail-sheet-footer">
+        {/* Cultural Action Cards for Jero Mangku / Serati */}
+        {isJeroMangku && (waOrderUrl || waConsultUrl) && (
+          <div className="jero-mangku-action-block">
+            <div className="jero-mangku-buttons-row">
+              {waOrderUrl && (
+                <a
+                  href={waOrderUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="detail-action-btn is-whatsapp jero-btn-order"
+                  title="Pesan Banten Jadi atau Pejati via WhatsApp"
+                >
+                  <ShoppingBag size={16} />
+                  <span>Nunas Banten Jadi</span>
+                </a>
+              )}
+              {waConsultUrl && (
+                <a
+                  href={waConsultUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="detail-action-btn is-consult jero-btn-consult"
+                  title="Konsultasi Dudonan & Muput Upacara via WhatsApp"
+                >
+                  <Sparkles size={16} />
+                  <span>Konsultasi Muput</span>
+                </a>
+              )}
+            </div>
+            {checklist.length > 0 && (
+              <p className="wa-sync-note">
+                ✨ Format pesan otomatis menyertakan <strong>{checklist.length} item kebutuhan</strong> dari Perencana Anda.
+              </p>
+            )}
+          </div>
+        )}
+
+        {/* Regular Store WhatsApp Inquiry */}
+        {!isJeroMangku && waInquiryUrl && (
+          <a
+            href={waInquiryUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="detail-action-btn is-whatsapp"
+            title="Tanya ketersediaan stok via WhatsApp"
+          >
+            <MessageCircle size={17} />
+            <span>Tanya Stok via WhatsApp</span>
+          </a>
+        )}
+
+        {/* Navigation & Directions */}
         <a
           href={directionsUrl}
           target="_blank"
@@ -233,22 +315,11 @@ export default function StoreDetailSheet({
           <ExternalLink size={14} className="ext-icon" />
         </a>
 
-        {waUrl && (
-          <a
-            href={waUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="detail-action-btn is-whatsapp"
-          >
-            <MessageCircle size={17} />
-            <span>{vendor.categories.includes("jero_mangku") ? "Hubungi Jero Mangku / Serati" : "Hubungi WhatsApp"}</span>
-          </a>
-        )}
-
-        {!waUrl && telUrl && (
+        {/* Fallback Phone Call */}
+        {!rawContact && telUrl && (
           <a href={telUrl} className="detail-action-btn is-outline">
             <Phone size={17} />
-            <span>{vendor.categories.includes("jero_mangku") ? "Hubungi Jero Mangku" : "Telepon Penjual"}</span>
+            <span>Telepon Penjual</span>
           </a>
         )}
 

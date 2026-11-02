@@ -1821,3 +1821,60 @@
   .map-source-status { font-size: 11px; padding: 8px 14px; }
   .banten-store-results-panel { max-height: min(48dvh, calc(100% - 72px)); }
 }
+
+/* ==========================================================================
+   Cultural WhatsApp Dispatcher for Jero Mangku & Serati
+   ========================================================================== */
+.jero-mangku-action-block {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: #fdfaf2;
+  border: 1px solid #fce0ab;
+  border-radius: 14px;
+  padding: 12px;
+}
+
+.jero-mangku-buttons-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+@media (max-width: 480px) {
+  .jero-mangku-buttons-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.jero-btn-order {
+  height: 42px !important;
+  font-size: 12px !important;
+  background: #174e3b !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(23, 78, 59, 0.2);
+}
+
+.jero-btn-order:hover {
+  background: #236850 !important;
+}
+
+.jero-btn-consult {
+  height: 42px !important;
+  font-size: 12px !important;
+  background: #b45309 !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(180, 83, 9, 0.2);
+}
+
+.jero-btn-consult:hover {
+  background: #92400e !important;
+}
+
+.wa-sync-note {
+  margin: 0;
+  font-size: 11px;
+  color: #855d1a;
+  line-height: 1.45;
+  text-align: center;
+}

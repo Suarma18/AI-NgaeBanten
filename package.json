@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "test": "node test/budget.test.mjs && node test/vendors.test.mjs && node test/osm.test.mjs && node test/analyze.test.mjs"
+    "test": "node test/budget.test.mjs && node test/vendors.test.mjs && node test/osm.test.mjs && node test/analyze.test.mjs && node test/timeline.test.mjs && node test/market-prices.test.mjs && node test/anatomy.test.mjs"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.22",

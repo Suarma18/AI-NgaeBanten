@@ -426,6 +426,7 @@ export default function BantenMap() {
             onClose={() => setSelectedVendorId(null)}
             isFavorite={favorites.includes(selectedVendor.id)}
             onToggleFavorite={handleToggleFavorite}
+            checklist={shoppingChecklist}
           />
         )}
       </main>
